@@ -1,0 +1,17 @@
+## version 2.0-4
+
+* fix dynamic help for R-patched
+* title case Title in DESCRIPTION file
+
+## version 2.0-3
+
+* change how dynamic help is started for newer R versions
+
+## version 2.0-2
+
+* move aplpack to Suggests, as tcltk2 is an issue
+
+## version 2.0-1
+
+* initial checkin
+* LearnEDA is now not on CRAN.  
